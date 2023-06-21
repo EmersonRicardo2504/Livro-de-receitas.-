@@ -4,4 +4,6 @@ Olá bem vindo ao nosso livro de receitas :handshake:
 
 - Strogonoff de frango
 
-- Pavê
+- Pavê.
+
+- Bolo de cenoura. 
